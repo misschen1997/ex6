@@ -28,7 +28,7 @@
             </fileset>
         </copy>
     </target>
-<target name="ant test"></target>
+<target name="test"></target>
     <target name="clean">
 
         <delete dir="bin"/>
