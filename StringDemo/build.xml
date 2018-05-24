@@ -28,7 +28,9 @@
             </fileset>
         </copy>
     </target>
+<target name="ant test"></target>
     <target name="clean">
+
         <delete dir="bin"/>
     </target>
     <target depends="clean" name="cleanall"/>
