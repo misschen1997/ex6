@@ -5,6 +5,7 @@ public class StringDemo {
 	}
 public String smallString(String str)// ×Ö·û´®±äÐ¡Ð´
 	{
+		int  a= 0;
 		String temp = "error";
 		if (str.equals("") || str == null) {
 			return temp;
