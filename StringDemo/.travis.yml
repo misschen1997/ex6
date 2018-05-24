@@ -1,0 +1,4 @@
+language :java
+
+jdk:
+  - craclejdk1.8
